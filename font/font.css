@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'open sans';
+    src: url('../font/open-sans/OpenSans-Regular.ttf');
+}
+@font-face {
+    font-family: 'open sans bold italic';
+    src: url('../font/open-sans/OpenSans-BoldItalic.ttf');
+}
+@font-face {
+    font-family: 'open sans bold';
+    src: url('../font/open-sans/OpenSans-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'open sans bolder';
+    src: url('../font/open-sans/OpenSans-ExtraBold.ttf');
+}
+@font-face {
+    font-family: 'open sans lighter';
+    src: url('../font/open-sans/OpenSans-Light.ttf');
+}
+
+@font-face {
+    font-family: 'open sans semibold';
+    src: url('../font/open-sans/OpenSans-Semibold.ttf');
+}
+
+@font-face {
+    font-family: 'SourceSansPro-Bold';
+    src: url('../font/SourceSansPro/SourceSansPro-Bold.otf');
+}
+@font-face {
+    font-family: 'SourceSansPro-Light';
+    src: url('../font/SourceSansPro/SourceSansPro-Light.otf');
+}
+
+@font-face {
+    font-family: 'kanit-light';
+    src: url('../font/kanit/kanit-light.otf');
+}
